@@ -1,0 +1,12 @@
+com\wipro\openCartPOM\MyAccountPage.class
+com\wipro\utilities\ExcelSheet.class
+com\wipro\utilities\WriteData.class
+com\wipro\openCartPOM\GalaxyPage.class
+com\wipro\openCartPOM\HomePage.class
+com\wipro\openCartPOM\LogOutPage.class
+com\wipro\utilities\CaptureScreenshot.class
+com\wipro\openCartPOM\LoginPage.class
+com\wipro\openCartPOM\RegistraionPageOC.class
+com\wipro\browser\LaunchBrowser.class
+com\wipro\openCartPOM\Commonactions.class
+com\wipro\openCartPOM\MyWishlistPage.class

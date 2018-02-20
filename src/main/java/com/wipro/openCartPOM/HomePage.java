@@ -26,6 +26,7 @@ public class HomePage {
 	
 	public RegistraionPageOC clickCreateAccount(){
 		createAccount.click();
+		System.out.println("my page");
 		return new RegistraionPageOC(driver);
 	}
 	
